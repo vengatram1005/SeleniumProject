@@ -1,0 +1,18 @@
+package com.lnt;
+
+import com.greens.Test;
+
+public class Language extends Test {
+
+	public static void main(String[] args) {
+
+		System.out.println("1");
+		System.out.println("2");
+		System.out.println("3");
+		test1();
+		System.out.println("4");
+		System.out.println("5");
+
+	}
+
+}

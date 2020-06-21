@@ -1,0 +1,10 @@
+package com.greens;
+
+public class Language {
+	
+	public void tamil() {
+		System.out.println("tamil");
+
+	}
+
+}

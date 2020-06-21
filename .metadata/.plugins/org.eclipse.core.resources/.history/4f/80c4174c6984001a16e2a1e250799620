@@ -1,0 +1,35 @@
+package com.greens;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.Dimension;
+import org.openqa.selenium.Point;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Selenium extends Test{
+
+	public static void main(String[] args) throws Throwable {
+
+		
+		List<Integer> s=new ArrayList<Integer>();
+		s.add(30);
+		s.add(60);
+		
+		System.out.println("1");
+		System.out.println("2");
+		System.out.println("3");
+		System.out.println("4");
+		test1();
+		System.out.println("5");
+		
+		System.out.println(s.get(0));
+		
+		
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package com.greens;
+
+public class Selenium extends Test{
+	
+	
+	public static void main(String[] args) {
+		Selenium s=new Selenium();
+		s.test1();
+		s.tamil();
+		
+		
+	}
+
+}

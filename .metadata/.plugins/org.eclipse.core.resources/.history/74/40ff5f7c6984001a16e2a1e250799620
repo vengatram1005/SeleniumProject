@@ -1,0 +1,11 @@
+package com.greens;
+
+public class Test {
+	
+	public static  void test1() {
+		
+		System.out.println("Test");
+
+	}
+
+}

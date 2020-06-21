@@ -1,0 +1,36 @@
+package com.greens;
+
+import java.util.Scanner;
+
+public class Selenium {
+	
+	
+	
+	public int test() {
+		int a=20;
+		return a;
+
+	}
+	
+	
+	public static void main(String[] args) {
+		
+		Selenium s=new Selenium();
+		int x = s.test();
+		
+		System.out.println(x);
+		
+		
+		
+		Scanner s=new Scanner(System.in);
+		
+		
+		
+	}
+
+	
+	
+	
+	
+
+}

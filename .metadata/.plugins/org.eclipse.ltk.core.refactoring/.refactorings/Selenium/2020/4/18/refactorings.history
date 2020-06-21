@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Language.java&apos; to &apos;Selenium/src/com.lnt&apos;&#x0D;&#x0A;- Original project: &apos;Selenium&apos;&#x0D;&#x0A;- Destination element: &apos;Selenium/src/com.lnt&apos;&#x0D;&#x0A;- Original element: &apos;com.greens.Language.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;com.lnt" element1="/src&lt;com.greens{Language.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1587966139428" units="1" version="1.0"/>
+</session>

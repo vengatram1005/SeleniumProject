@@ -1,0 +1,26 @@
+package com.greens;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.remote.RemoteWebDriver;
+
+public class Day1 {
+	
+	
+	public static void main(String[] args) {
+		
+		System.setProperty("webdriver.chrome.driver", "E:\\Venkat\\Workspace\\Selenium_Batch\\SeleniumClass\\Driver\\chromedriver.exe");
+		
+		WebDriver driver=new ChromeDriver();
+		
+		driver.manage().window().maximize();
+		
+		
+		
+		
+	}
+	
+	
+	
+
+}

@@ -1,0 +1,27 @@
+package com.greens;
+
+import java.util.Scanner;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Selenium extends Test {
+
+	public static void main(String[] args) {
+
+		System.setProperty("webdriver.chrome.driver", "E:\\Venkat\\Workspace\\Selenium_Batch\\Selenium\\Driver\\chromedriver.exe");
+		
+		WebDriver driver=new ChromeDriver();
+		driver.get("https://www.facebook.com/");
+		driver.manage().window().maximize();
+		
+		driver.findElement(By.id("email")).sendKeys("udhaya");
+			
+			
+
+			
+		}
+
+
+}
