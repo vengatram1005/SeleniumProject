@@ -3217,3 +3217,19 @@ Caused by: java.net.SocketException: Address family not supported by protocol fa
 	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:359) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
 	... 13 common frames omitted
 2020-06-20 09:17:32,344 [Worker-20: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-21 10:26:24,579 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-21 10:26:45,287 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 10:26:45,288 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Venkat\Workspace\Selenium_Batch\Sample\src\main\resources
+2020-06-21 10:26:45,292 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 10:26:45,293 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Venkat\Workspace\Selenium_Batch\Sample\src\test\resources
+2020-06-21 10:26:46,610 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for info.cukes:cucumber-core:jar:1.2.5 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-06-21 10:26:46,624 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for info.cukes:cucumber-java:jar:1.2.5 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-06-21 10:26:46,636 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for info.cukes:cucumber-junit:jar:1.2.5 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-06-21 10:26:46,766 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 10:26:46,767 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Venkat\Workspace\Selenium_Batch\Sample_Cucumber\src\main\resources
+2020-06-21 10:26:46,770 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 10:26:46,771 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Venkat\Workspace\Selenium_Batch\Sample_Cucumber\src\test\resources
+2020-06-21 10:26:47,312 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 10:26:47,313 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Venkat\Workspace\Selenium_Batch\TestNGSample\src\main\resources
+2020-06-21 10:26:47,315 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 10:26:47,315 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Venkat\Workspace\Selenium_Batch\TestNGSample\src\test\resources

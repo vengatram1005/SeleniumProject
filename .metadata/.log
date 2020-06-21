@@ -709,3 +709,6 @@ Caused by: java.net.SocketTimeoutException: connect timed out
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2020-06-21 10:26:46.637
 !MESSAGE The POM for info.cukes:cucumber-junit:jar:1.2.5 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.jface.text 2 0 2020-06-21 11:12:09.290
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
