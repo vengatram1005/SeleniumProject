@@ -3233,3 +3233,7 @@ Caused by: java.net.SocketException: Address family not supported by protocol fa
 2020-06-21 10:26:47,313 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Venkat\Workspace\Selenium_Batch\TestNGSample\src\main\resources
 2020-06-21 10:26:47,315 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-06-21 10:26:47,315 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Venkat\Workspace\Selenium_Batch\TestNGSample\src\test\resources
+2020-06-21 11:12:59,639 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 11:12:59,641 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Venkat\Workspace\Selenium_Batch\Sample_Cucumber\src\main\resources
+2020-06-21 11:12:59,644 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 11:12:59,644 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Venkat\Workspace\Selenium_Batch\Sample_Cucumber\src\test\resources
